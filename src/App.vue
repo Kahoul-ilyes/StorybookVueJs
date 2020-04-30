@@ -7,6 +7,7 @@
 
 <script>
 import HelloWorld from "./components/HelloWorld.vue";
+require("./Typography.css");
 
 export default {
   name: "App",

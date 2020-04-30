@@ -1,0 +1,90 @@
+.body1 {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.body2 {
+    font-size: 14px;
+    line-height: 20px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.button-text {
+    font-size: 14px;
+    line-height: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.caption {
+    font-size: 12px;
+    line-height: 16px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 96px;
+    line-height: 112px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 60px;
+    line-height: 72px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+h3 {
+    font-size: 48px;
+    line-height: 56px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+h4 {
+    font-size: 34px;
+    line-height: 36px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+h5 {
+    font-size: 24px;
+    line-height: 24px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+h6 {
+    font-size: 20px;
+    line-height: 24px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.overline {
+    font-size: 10px;
+    line-height: 16px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.subtitle1 {
+    font-size: 16px;
+    line-height: 24px;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.subtitle2 {
+    font-size: 14px;
+    line-height: 24px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
